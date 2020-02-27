@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="408aff7a-6825-410e-a7ac-4de32ff17f12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap-example/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-example/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/material-design-lite-example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/material-design-lite-example/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +61,7 @@
       <updated>1582747895164</updated>
       <workItem from="1582747897184" duration="1690000" />
       <workItem from="1582807706044" duration="2047000" />
-      <workItem from="1582822415703" duration="1084000" />
+      <workItem from="1582822415703" duration="2482000" />
     </task>
     <servers />
   </component>
