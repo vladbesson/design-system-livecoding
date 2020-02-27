@@ -1,0 +1,46 @@
+.timer {
+  max-width: 970px;
+  height: 200px;
+  display: flex;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 80px;
+  box-sizing: border-box;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  flex-wrap: wrap;
+}
+
+.timer__cell {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.timer__heading {
+  font-size: 25px;
+
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.timer__number {
+  font-size: 130px;
+  font-weight: 100;
+  margin: 0;
+  line-height: 1;
+}
+
+.timer__dots {
+  font-size: 130px;
+  font-weight: 100;
+  margin: 0;
+  align-self: baseline;
+}
+
+.timer__container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
