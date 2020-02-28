@@ -1,6 +1,6 @@
 .timer {
   max-width: 970px;
-  height: 200px;
+  min-height: 200px;
   display: flex;
   border-radius: 20px;
   align-items: center;
