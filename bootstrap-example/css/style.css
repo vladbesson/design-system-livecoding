@@ -1,15 +1,45 @@
-img {
-	max-width: 100%;
-}
+@import url(./timer/timer.css);
 
 .footer {
-	background: black;
-	color: white;
-	padding-top: 100px;
-	padding-bottom: 100px;
+  background: #0f445f;
+  color: white;
+  padding: 5px 15px;
+  display: flex;
+  justify-content: space-between;
 }
 
-.main {
-	padding-top: 40px;
-	padding-bottom: 100px;
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.jumbotron .container,
+.card .card-body {
+  text-align: center;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 60vh;
+}
+
+.card {
+  margin-bottom: 0 !important;
+}
+
+.cart img {
+	height: 40vh;
+	object-fit: cover;
+}
+
+.bg-black {
+  background-color: #0f445f;
+}
+
+.bg-blue {
+	background-color: #0f445f;
+	color: white;
+}
+
+.card-body {
+	text-align: center;
 }
