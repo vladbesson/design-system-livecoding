@@ -41,5 +41,5 @@ window.onload = function() {
     
     var deadline = Date.parse('September 23, 2020');
     initializeClock('clockdiv', deadline);
-    
+    $('[data-toggle="tooltip"]').tooltip();
     };
